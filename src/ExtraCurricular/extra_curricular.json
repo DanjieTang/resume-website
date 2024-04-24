@@ -1,0 +1,3 @@
+[
+    {"title": "Backend Developer", "organization": "UTMIST", "link": "https://utmist.gitlab.io/", "description": ["Developed a data collection pipeline by employing a network of microcontrollers using docker to significantly increase data collection speed.", "Fine-tuned Llama2 7b using scraped data and presented at CUCAI conference."], "logo": "logos/UTMIST.png"}
+]

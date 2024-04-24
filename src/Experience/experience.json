@@ -1,0 +1,5 @@
+[
+    {"title": "Research Assistant", "Company": "UHN", "logo": "./logos/UHN.jpeg", "description": ["Contributing to a research focused on helping the recovery of upper limb mobility in post-stroke patients.", "Training a human pose estimation models using a combination of IMU and image data for enhanced accuracy."], "link": "https://www.uhn.ca/"},
+    {"title": "Machine Learning Developer", "Company": "RBC", "logo": "./logos/rbc.webp", "description": ["Backend development and database management.", "Fine tuned Llama2 13b for project specific task.", "Served as the Programming Lead for a project, successfully steering its transition from a proof of concept to a fully-fledged pilot project."], "link": "https://www.rbcroyalbank.com/personal.html"},
+    {"title": "Research Assistant", "Company": "U of T", "logo": "./logos/UT.png", "description": ["Utilized vector database for information retrieval.", "Introduced a novel idea that that significantly improved reviewed item reranking results, achieving a 12% boost in performance.", "Achieved state of the art recommendation and explanation results."], "link": "https://www.utoronto.ca/"}
+]

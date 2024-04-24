@@ -1,0 +1,23 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+.title{
+    padding: 10%;
+    padding-left: 13%;
+    padding-bottom: 0px;
+    font-size: 2rem;
+    margin-bottom: 0px;
+}
+
+.image-box{
+    padding: 10%;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+
+.image{
+    width: 80%;
+    border-radius: 50%;
+}

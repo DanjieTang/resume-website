@@ -1,0 +1,12 @@
+.education-box{
+    border-color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+.education-title{
+    margin: 5px;
+}

@@ -1,0 +1,29 @@
+.one-publication-box{
+    border-color: skyblue;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    padding-left: 10px;
+    margin: 10px;
+}
+
+.one-publication-box:hover{
+    background-color: rgba(135, 207, 235, 0.15);
+}
+
+.one-publication-intro{
+    padding-top: 10px;
+}
+
+.one-publication-title{
+    margin-top: 10px;
+}
+
+.one-publication-ol{
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+.underline {
+    text-decoration: underline;
+}

@@ -1,0 +1,32 @@
+.one-education-box{
+    border-color: skyblue;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    padding-left: 10px;
+    margin: 10px;
+}
+
+.one-education-box:hover{
+    background-color: rgba(135, 207, 235, 0.15);
+}
+
+.one-education-intro{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 10px;
+}
+
+.one-education-job-title{
+    margin-top: 10px;
+}
+
+.one-education-logo{
+    width: 50px;
+    height: 50px;
+}
+
+.one-education-ol{
+    margin: 0px;
+    margin-bottom: 20px;
+}

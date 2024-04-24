@@ -1,0 +1,5 @@
+[
+    {"title": "Diffusion Model CIFAR10", "link": "https://github.com/DanjieTang/Diffusion-CIFAR10", "description": ["Trained a diffusion model to generate CIFAR 10 images.", "Incorporated insights from 14 academic papers on diffusion models."]},
+    {"title": "FoundationLLM", "link": "https://github.com/DanjieTang/FoundationLLM", "description": ["Implemented the Gemma large language model architecture from scratch using PyTorch, guided by a thorough study of relevant research papers."]},
+    {"title": "MyMap", "link": "https://github.com/DanjieTang/MyMap", "description": ["A map application that earned 3rd place in a competitive field of over 84 submissions."]}
+]
