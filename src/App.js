@@ -5,6 +5,7 @@ import Publication from './Publication/Publication';
 import Education from './Education/Education';
 import ExtraCurricular from './ExtraCurricular/ExtraCurricular';
 import Project from './Project/Project';
+import Footer from './Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Education/>
       <ExtraCurricular/>
       <Project/>
+      <Footer/>
     </>
   );
 }
