@@ -5,7 +5,7 @@ export default function OneExtraCurricular(props){
         <div className="one-extra-curricular-box">
             <div className="one-extra-curricular-intro">
                 <div>
-                    <h2 className="one-extra-curricular-title">{props.extra_curricular.title} at <a href={props.extra_curricular.link} target="_blank">{props.extra_curricular.organization}</a></h2>
+                    <h2 className="one-extra-curricular-title">{props.extra_curricular.title} at <a href={props.extra_curricular.link} target="_blank" rel="noreferrer">{props.extra_curricular.organization}</a></h2>
                 </div>
                 <div>
                     <img src={props.extra_curricular.logo} alt={props.extra_curricular.logo} className="one-extra-curricular-logo"/>

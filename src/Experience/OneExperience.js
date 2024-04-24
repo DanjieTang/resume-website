@@ -5,7 +5,7 @@ export default function OneExperience(props){
         <div className="one-experience-box">
             <div className="one-experience-intro">
                 <div>
-                    <h2 className="one-experience-job-title">{props.experience.title} at <a href={props.experience.link} target="_blank">{props.experience.Company}</a></h2>
+                    <h2 className="one-experience-job-title">{props.experience.title} at <a href={props.experience.link} target="_blank" rel="noreferrer">{props.experience.Company}</a></h2>
                 </div>
                 <div>
                     <img src={props.experience.logo} alt={props.experience.logo} className="one-experience-logo"/>
