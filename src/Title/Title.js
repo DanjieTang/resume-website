@@ -8,7 +8,7 @@ export default function Title(){
                 <h3>Third year Computer Engineering student, U of T</h3>
             </div>
             <div className="image-box">
-                <img src="resume-image.jpeg" className="image" alt="Danjie's Resume Image" />
+                <img src="resume-image.jpeg" className="image" alt="Danjie's Resume" />
             </div>
         </div>
     );
